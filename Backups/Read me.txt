@@ -1,0 +1,7 @@
+forge_halo.map goes in D:\SteamLibrary\steamapps\common\Halo The Master Chief Collection\haloreach\maps
+
+the other file goes in paks
+
+inside news folder are the modded files
+
+
